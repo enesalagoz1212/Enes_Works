@@ -10,6 +10,24 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+
+/Enes_Work1/[Ll]ibrary/
+/Enes_Work1/[Tt]emp/
+/Enes_Work1/[Oo]bj/
+/Enes_Work1/[Bb]uild/
+/Enes_Work1/[Bb]uilds/
+/Enes_Work1/[Ll]ogs/
+/Enes_Work1/[Mm]emoryCaptures/
+
+
+/Enes_Work2/[Ll]ibrary/
+/Enes_Work2/[Tt]emp/
+/Enes_Work2/[Oo]bj/
+/Enes_Work2/[Bb]uild/
+/Enes_Work2/[Bb]uilds/
+/Enes_Work2/[Ll]ogs/
+/Enes_Work2/[Mm]emoryCaptures/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
